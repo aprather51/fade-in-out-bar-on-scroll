@@ -1,3 +1,3 @@
-# react-hide-show-y-scroll
+# react-fade-in-out-bar-on-scroll
 
-Hiding and Display Header bar on scroll with react see [Demo](https://87l0pn2.codesandbox.io/)
+Fade in/out Header bar on scroll with react see [Demo](https://j3jlw6yxky.codesandbox.io/)
