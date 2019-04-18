@@ -3,7 +3,7 @@ Fading Hide/Show header on scroll.
 
 ![example](assets/example.gif)
 
-### [DEMO](https://aprather51.github.io/Hide-Show-Header/) or [DEMO - from codesamebox.io](https://j3jlw6yxky.codesandbox.io/)
+### [DEMO](https://aprather51.github.io/Header-Fade-Hide-Show/) or [DEMO - from codesamebox.io](https://j3jlw6yxky.codesandbox.io/)
 
 ## Features
 - React
