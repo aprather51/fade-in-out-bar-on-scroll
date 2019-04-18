@@ -6,6 +6,7 @@
     "main": "src/index.js",
     "homepage": "https://aprather51.github.io/Header-Fade-Hide-Show",
     "dependencies": {
+        "node-sass": "^4.11.0",
         "react": "16.5.2",
         "react-dom": "16.5.2",
         "react-scripts": "2.0.3"
